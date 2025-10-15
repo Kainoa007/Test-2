@@ -8,7 +8,8 @@ public class Inventory : MonoBehaviour
 
     public List<Items> content = new List<Items>();
     public int contentCurrentIndex = 0;
-    public Image itemUIImage;
+    public Image itemImageUI;
+    public Text itemNameUI;
 
     private void Awake()
     {
@@ -36,6 +37,7 @@ public class Inventory : MonoBehaviour
         Items currentItem = content[contentCurrentIndex];
         content.Remove(currentItem);
         GetNextItem();
+        UpdateInventoryUI();
     }
 
     public void GetNextItem()
@@ -72,11 +74,13 @@ public class Inventory : MonoBehaviour
     {
         if (content.Count > 0)
         {
-            itemUIImage.sprite = content[contentCurrentIndex].image;
+            itemImageUI.sprite = content[contentCurrentIndex].image;
+            itemNameUI.text = content[contentCurrentIndex].name;
         }
         else
         {
-            itemUIImage.sprite = null;
+            itemImageUI.sprite = null;
+            itemNameUI.text = "";
         }
     }
 }
