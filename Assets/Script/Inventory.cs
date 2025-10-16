@@ -10,6 +10,7 @@ public class Inventory : MonoBehaviour
     public int contentCurrentIndex = 0;
     public Image itemImageUI;
     public Text itemNameUI;
+    public Sprite emptyItemImage;
 
     private void Awake()
     {
@@ -79,7 +80,7 @@ public class Inventory : MonoBehaviour
         }
         else
         {
-            itemImageUI.sprite = null;
+            itemImageUI.sprite = emptyItemImage;
             itemNameUI.text = "";
         }
     }
