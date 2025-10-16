@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: b2079f144af6ba045b7ae1255a7db34a
+guid: 57a83ed583ec3234fab931ef59194831
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1674650367798179223
-    second: spider web_0
+      213: 6213145305300375645
+    second: red stuff but darker_0
+  - first:
+      213: -4874776574902136421
+    second: red stuff but darker_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spider web_0
+      name: red stuff but darker_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 38
-        width: 49
-        height: 44
+        x: 0
+        y: 264
+        width: 811
+        height: 247
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58905c8cb6893650800000000000000
+      internalID: 6213145305300375645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red stuff but darker_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 260
+        width: 387
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 795769703ad8d3710800000000000000
-      internalID: 1674650367798179223
+      spriteID: b9110956880595cb0800000000000000
+      internalID: -4874776574902136421
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f6fead0f7d9f8fb4ba5e18deea27517c
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spider web_0: 1674650367798179223
+      red stuff but darker_0: 6213145305300375645
+      red stuff but darker_1: -4874776574902136421
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
