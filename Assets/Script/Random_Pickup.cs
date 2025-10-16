@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Item_Pickup : MonoBehaviour
+public class Random_Pickup : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
