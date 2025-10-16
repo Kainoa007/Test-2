@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 0e377b6bae6c37e479963bc73b4cffc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5284328647458433115
+    second: church assets_0
+  - first:
+      213: -5624730727791286619
+    second: church assets_1
+  - first:
+      213: -8524532901024363237
+    second: church assets_2
+  - first:
+      213: 8624685584637954781
+    second: church assets_3
+  - first:
+      213: -4296034411947795443
+    second: church assets_4
+  - first:
+      213: 8360978107551777377
+    second: church assets_5
+  - first:
+      213: 3041075302295573174
+    second: church assets_6
+  - first:
+      213: 7821532421002895498
+    second: church assets_7
+  - first:
+      213: -11148643365639943
+    second: church assets_8
+  - first:
+      213: -4413913800239078909
+    second: church assets_9
+  - first:
+      213: -3907170414100882435
+    second: church assets_10
+  - first:
+      213: -578898791749030599
+    second: church assets_11
+  - first:
+      213: -8727569495745710813
+    second: church assets_12
+  - first:
+      213: 6458079194775657858
+    second: church assets_13
+  - first:
+      213: -8184633290202083854
+    second: church assets_14
+  - first:
+      213: -1946983643729597539
+    second: church assets_15
+  - first:
+      213: -107296164379602087
+    second: church assets_16
+  - first:
+      213: 5256491951576283024
+    second: church assets_17
+  - first:
+      213: 8093833965046359944
+    second: church assets_18
+  - first:
+      213: -6135902165087342973
+    second: church assets_19
+  - first:
+      213: 5982696630709297264
+    second: church assets_20
+  - first:
+      213: 1895456618925592534
+    second: church assets_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: church assets_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 404
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b582e2448e4b55940800000000000000
+      internalID: 5284328647458433115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 404
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a6c44431f0f1b0800000000000000
+      internalID: -5624730727791286619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 455
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d005ecd76c2b980800000000000000
+      internalID: -8524532901024363237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 455
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda07cbf7d901b770800000000000000
+      internalID: 8624685584637954781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 483
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c5ff4b67b6164c0800000000000000
+      internalID: -4296034411947795443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 480
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162017b5a49280470800000000000000
+      internalID: 8360978107551777377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 465
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b29a8800e1143a20800000000000000
+      internalID: 3041075302295573174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 446
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802411fb4aab8c60800000000000000
+      internalID: 7821532421002895498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 427
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a6703e5468dff0800000000000000
+      internalID: -11148643365639943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 404
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3022e8bd8c0aeb2c0800000000000000
+      internalID: -4413913800239078909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 404
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd99e9531f6c9c0800000000000000
+      internalID: -3907170414100882435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 179
+        width: 108
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d65e4bd9657f7f0800000000000000
+      internalID: -578898791749030599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 381
+        width: 170
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ba85c8c171e680800000000000000
+      internalID: -8727569495745710813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 171
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d91ffafc4bf9950800000000000000
+      internalID: 6458079194775657858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 347
+        width: 178
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd0ba8f2675a6e80800000000000000
+      internalID: -8184633290202083854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b600c01bceaf4e0800000000000000
+      internalID: -1946983643729597539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 13
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953546cf4bec28ef0800000000000000
+      internalID: -107296164379602087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977762749fc2f840800000000000000
+      internalID: 5256491951576283024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 112
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876495bb13135070800000000000000
+      internalID: 8093833965046359944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 20
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e2b618d75e8daa0800000000000000
+      internalID: -6135902165087342973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 106
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070aa5053eec60350800000000000000
+      internalID: 5982696630709297264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church assets_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df093a90c30e4a10800000000000000
+      internalID: 1895456618925592534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      church assets_0: 5284328647458433115
+      church assets_1: -5624730727791286619
+      church assets_10: -3907170414100882435
+      church assets_11: -578898791749030599
+      church assets_12: -8727569495745710813
+      church assets_13: 6458079194775657858
+      church assets_14: -8184633290202083854
+      church assets_15: -1946983643729597539
+      church assets_16: -107296164379602087
+      church assets_17: 5256491951576283024
+      church assets_18: 8093833965046359944
+      church assets_19: -6135902165087342973
+      church assets_2: -8524532901024363237
+      church assets_20: 5982696630709297264
+      church assets_21: 1895456618925592534
+      church assets_3: 8624685584637954781
+      church assets_4: -4296034411947795443
+      church assets_5: 8360978107551777377
+      church assets_6: 3041075302295573174
+      church assets_7: 7821532421002895498
+      church assets_8: -11148643365639943
+      church assets_9: -4413913800239078909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
