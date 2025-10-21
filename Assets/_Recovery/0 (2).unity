@@ -542,7 +542,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -567,7 +567,7 @@ Transform:
   m_GameObject: {fileID: 276428423}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17, y: 2.78, z: 0}
+  m_LocalPosition: {x: 17.2, y: 2.12, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -582,14 +582,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 276428423}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7031ab0bda07e647b15a433c2e3249b, type: 3}
+  m_Script: {fileID: 11500000, guid: 564af1f2be02bc249a404c97a7860de3, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NPC
-  dialogueData: {fileID: 11400000, guid: 4c273b686727f7c44bcee71c6254bb43, type: 2}
-  dialoguePanel: {fileID: 518901277}
-  dialogueText: {fileID: 259202246}
-  nameText: {fileID: 2110288917}
-  portraitImage: {fileID: 1877081997}
+  m_EditorClassIdentifier: Assembly-CSharp::InteractableObject
+  interactPrompt: {fileID: 4261050961775675519, guid: 1d992286da330744b93c58ad49c3c613, type: 3}
 --- !u!1 &294827327
 GameObject:
   m_ObjectHideFlags: 0
