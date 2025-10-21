@@ -14,7 +14,7 @@ TagManager:
   - UI
   - Ground
   - Items
-  - 
+  - npc
   - 
   - 
   - 
@@ -41,6 +41,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: collision
+    uniqueID: 371765303
+    locked: 0
+  - name: player
+    uniqueID: 763605261
     locked: 0
   m_RenderingLayers:
   - Default
