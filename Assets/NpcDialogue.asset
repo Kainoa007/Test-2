@@ -15,8 +15,8 @@ MonoBehaviour:
   npcName: GarlicBread
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - hello horld
-  - u wnna get high on garlic bread w me? >w<
+  - does he know about
+  - THE D-O-R-E?????
   autoProgressingLines: 0101
   autoProgressDelay: 1.5
   typingSpeed: 0.05

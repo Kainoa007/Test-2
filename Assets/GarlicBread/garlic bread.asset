@@ -15,10 +15,12 @@ MonoBehaviour:
   npcName: GarlicBread
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - hello bitch
-  - dy wand garlic bread?
-  autoProgressingLines: 0100
-  autoProgressDelay: 1.5
+  - does he know about the D-O-R-E?
+  - Huh?
+  - THE DOOR
+  - '>:D'
+  autoProgressingLines: 01010101
+  autoProgressDelay: 0.5
   typingSpeed: 0.05
   voicesound: {fileID: 0}
   voicePitch: 1
