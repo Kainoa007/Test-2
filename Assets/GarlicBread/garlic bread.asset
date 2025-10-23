@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: garlic bread
   m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue
   npcName: GarlicBread
-  npcPortrait: {fileID: 0}
+  npcPortrait: {fileID: -500923601974403769, guid: 34668244ccff2b742be6ae657fe3269a, type: 3}
   dialogueLines:
   - does he know about the D-O-R-E?
   - Huh?
