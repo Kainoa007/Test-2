@@ -15,12 +15,21 @@ public class DialogueManager : MonoBehaviour
     private int currentLineIndex;
     private bool isDialogueActive;
 
-    private void Awake()
+
+    private void Start()
     {
-        if (Instance == null)
-            Instance = this;
-        else
-            Destroy(gameObject);
+        dialoguePanel.SetActive(false);
+        isDialogueActive = false;
+    }
+
+
+    private void Awake()
+
+   {
+       if (Instance == null)
+          Instance = this;
+      else
+           Destroy(gameObject);
     }
 
     public void StartDialogue(NpcDialogue dialogue)
@@ -57,18 +66,21 @@ public class DialogueManager : MonoBehaviour
         if (currentLineIndex >= currentDialogue.dialogueLines.Length)
         {
             EndDialogue();
+            Debug.Log("SADFSDFSDFSF");
+            dialoguePanel.SetActive(false);
         }
         else
         {
             ShowCurrentLine();
+            Debug.Log("Advanced to line " + currentLineIndex);
         }
     }
 
     private void EndDialogue()
     {
         dialoguePanel.SetActive(false);
-        isDialogueActive = false;
-        currentDialogue = null;
+       // isDialogueActive = false;
+       // currentDialogue = null;
     }
 
     public bool IsDialogueActive()
