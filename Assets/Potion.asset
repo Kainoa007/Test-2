@@ -15,4 +15,4 @@ MonoBehaviour:
   id: 1
   name: Potion
   description: Heals you ( i think )
-  image: {fileID: -5620055989646091708, guid: d5fef6857180d5f469b35f2d8e64215e, type: 3}
+  image: {fileID: -3659487601432457318, guid: 61c60e42cc8b21543a6c0489a51da8c3, type: 3}
