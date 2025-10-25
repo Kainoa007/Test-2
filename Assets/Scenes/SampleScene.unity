@@ -26948,6 +26948,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1778339657}
     m_Modifications:
+    - target: {fileID: 6628292747114201856, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 36
+      objectReference: {fileID: 0}
     - target: {fileID: 7647486356732881458, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_Name
       value: interactPrompt
@@ -26982,11 +26986,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8731294236245330918, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 167.9294
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 8731294236245330918, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 22.4001
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 8731294236245330918, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27022,7 +27026,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8731294236245330918, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 22
+      value: 54
       objectReference: {fileID: 0}
     - target: {fileID: 8731294236245330918, guid: 63a0fa70e99857d43a4bf00da89b9df9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
