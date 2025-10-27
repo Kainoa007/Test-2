@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 839475075591cd54ab1f96e535f5c1f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7096442880596636018
+    second: jfg_0
+  - first:
+      213: -2777268728357793323
+    second: jfg_1
+  - first:
+      213: 693061147847437612
+    second: jfg_2
+  - first:
+      213: -2691000255169429791
+    second: jfg_3
+  - first:
+      213: 6120135358151505503
+    second: jfg_4
+  - first:
+      213: -1630354629591462762
+    second: jfg_5
+  - first:
+      213: -3294927618086325625
+    second: jfg_6
+  - first:
+      213: 5880710221011026302
+    second: jfg_7
+  - first:
+      213: -6968069686267704068
+    second: jfg_8
+  - first:
+      213: -2667771337148871819
+    second: jfg_9
+  - first:
+      213: -8197958660757459657
+    second: jfg_10
+  - first:
+      213: 8066812576021235388
+    second: jfg_11
+  - first:
+      213: 8828803412003584096
+    second: jfg_12
+  - first:
+      213: 5448453586765155998
+    second: jfg_13
+  - first:
+      213: -4792798738302474265
+    second: jfg_14
+  - first:
+      213: -5803615486745121969
+    second: jfg_15
+  - first:
+      213: -8370317263788789445
+    second: jfg_16
+  - first:
+      213: 5952476859526342860
+    second: jfg_17
+  - first:
+      213: 7967602518028807888
+    second: jfg_18
+  - first:
+      213: 5699130885252646315
+    second: jfg_19
+  - first:
+      213: 4077956085720228663
+    second: jfg_20
+  - first:
+      213: 5852088572713639523
+    second: jfg_21
+  - first:
+      213: -6139350865688542041
+    second: jfg_22
+  - first:
+      213: -3997719128324224243
+    second: jfg_23
+  - first:
+      213: -5456748812555716243
+    second: jfg_24
+  - first:
+      213: -200590073260008143
+    second: jfg_25
+  - first:
+      213: 7537826747288732323
+    second: jfg_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jfg_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 447
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e00357cce548d90800000000000000
+      internalID: -7096442880596636018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 447
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1de606ec82579d0800000000000000
+      internalID: -2777268728357793323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 447
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d2215217f3e9900800000000000000
+      internalID: 693061147847437612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 447
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef3248685a7aad0800000000000000
+      internalID: -2691000255169429791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 447
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56bdefaea61fe450800000000000000
+      internalID: 6120135358151505503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 447
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c89453a11df59e0800000000000000
+      internalID: -1630354629591462762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 447
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7823753e9c01642d0800000000000000
+      internalID: -3294927618086325625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 447
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e710f56e9ca7c9150800000000000000
+      internalID: 5880710221011026302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc88dbe9817c4f90800000000000000
+      internalID: -6968069686267704068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 447
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc5437a1c2afad0800000000000000
+      internalID: -2667771337148871819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 447
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de63e58000b3e80800000000000000
+      internalID: -8197958660757459657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 448
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6466f4c4313ff60800000000000000
+      internalID: 8066812576021235388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 46
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068fa3c1de5368a70800000000000000
+      internalID: 8828803412003584096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12
+        width: 46
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e07568babcc9b40800000000000000
+      internalID: 5448453586765155998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 373
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e76a8bd0fe8c7db0800000000000000
+      internalID: -4792798738302474265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 377
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be993b67a657fa0800000000000000
+      internalID: -5803615486745121969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 377
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31bc82ebc8a6db80800000000000000
+      internalID: -8370317263788789445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 377
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ecc98a227b9250800000000000000
+      internalID: 5952476859526342860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 411
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6d96a64c929e60800000000000000
+      internalID: 7967602518028807888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 373
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba501f74851671f40800000000000000
+      internalID: 5699130885252646315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7332ffa347fc79830800000000000000
+      internalID: 4077956085720228663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 335
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e18ba1d8bc63150800000000000000
+      internalID: 5852088572713639523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 296
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c5235ae4accaa0800000000000000
+      internalID: -6139350865688542041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b437432af3588c0800000000000000
+      internalID: -3997719128324224243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 210
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f417bddbb544b0800000000000000
+      internalID: -5456748812555716243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 61
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d1ed1246c573df0800000000000000
+      internalID: -200590073260008143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jfg_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 5
+        width: 112
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a245925d7dbb9860800000000000000
+      internalID: 7537826747288732323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jfg_0: -7096442880596636018
+      jfg_1: -2777268728357793323
+      jfg_10: -8197958660757459657
+      jfg_11: 8066812576021235388
+      jfg_12: 8828803412003584096
+      jfg_13: 5448453586765155998
+      jfg_14: -4792798738302474265
+      jfg_15: -5803615486745121969
+      jfg_16: -8370317263788789445
+      jfg_17: 5952476859526342860
+      jfg_18: 7967602518028807888
+      jfg_19: 5699130885252646315
+      jfg_2: 693061147847437612
+      jfg_20: 4077956085720228663
+      jfg_21: 5852088572713639523
+      jfg_22: -6139350865688542041
+      jfg_23: -3997719128324224243
+      jfg_24: -5456748812555716243
+      jfg_25: -200590073260008143
+      jfg_26: 7537826747288732323
+      jfg_3: -2691000255169429791
+      jfg_4: 6120135358151505503
+      jfg_5: -1630354629591462762
+      jfg_6: -3294927618086325625
+      jfg_7: 5880710221011026302
+      jfg_8: -6968069686267704068
+      jfg_9: -2667771337148871819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
