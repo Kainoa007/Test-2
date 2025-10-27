@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Player_Controler : MonoBehaviour
 {
+    [SerializeField] private Animator animator; 
     public float moveSpeed = 5f;
     public float jumpForce = 5f;
     public Transform groundCheck;
@@ -10,9 +11,10 @@ public class Player_Controler : MonoBehaviour
     public int coins = 0;
 
     private Rigidbody2D rb;
-    private Vector2 movement;
+    [HideInInspector] public Vector2 movement;
 
-    private bool isGrounded = true;
+    [HideInInspector] public bool isGrounded = true;
+    private int input;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,7 +37,16 @@ public class Player_Controler : MonoBehaviour
         }
 
         //Debug.Log("isGrounded:" + isGrounded);
+        if (input != 0)
+        { 
+            animator.SetBool("IsRunning", true);
 
+        }
+        else
+        {
+            animator.SetBool("IsRunning", false);
+        }   
+        
     }
 
     void Flip()

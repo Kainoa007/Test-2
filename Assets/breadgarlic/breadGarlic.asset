@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fabab3807a08e4ea245f5161341d0b, type: 3}
+  m_Name: breadGarlic
+  m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue
+  npcName: martin
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - In the beginning, there was only hunger.
+  - Then, from the fragrant void, the Holy Garlic Bread arose
+  - golden, buttered, and infinite in compassion.
+  - It sprinkled parsley across the cosmos
+  - the universe was seasoned
+  - ts followers, the Garlicbreadians
+  - believe all life must be toasted
+  - just like garlic bread.
+  - ur job weezo
+  - is to bring back the holy garlic bread
+  - witch is guarded by the giand darito
+  - travel safe garlicbredian >:)
+  autoProgressingLines: 
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicesound: {fileID: 0}
+  voicePitch: 1
