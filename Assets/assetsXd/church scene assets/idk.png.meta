@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 94c2e8fb3d1645b458544532adcc9d55
+guid: 9d154eb36330d0543955227487e934fc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7341407202210888751
-    second: door_0
+      213: 2684803284617410338
+    second: idk_0
   - first:
-      213: 6623719234781301212
-    second: door_1
+      213: 5746398976047030293
+    second: idk_1
+  - first:
+      213: 7330089661105181032
+    second: idk_2
+  - first:
+      213: -2082119808795830760
+    second: idk_3
+  - first:
+      213: 3936051792431754962
+    second: idk_4
+  - first:
+      213: 764194621731043334
+    second: idk_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: door_0
+      name: idk_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 7
-        width: 47
-        height: 112
+        x: 26
+        y: 0
+        width: 46
+        height: 650
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d3c9b8cb051e1a90800000000000000
-      internalID: -7341407202210888751
+      spriteID: 2273c67dc56524520800000000000000
+      internalID: 2684803284617410338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: door_1
+      name: idk_1
       rect:
         serializedVersion: 2
-        x: 72
-        y: 12
-        width: 37
-        height: 91
+        x: 98
+        y: 22
+        width: 46
+        height: 628
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +165,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd9cf01dc8d2ceb50800000000000000
-      internalID: 6623719234781301212
+      spriteID: 510a3f84c6f4fbf40800000000000000
+      internalID: 5746398976047030293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 425
+        width: 76
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86110f5d5b5b9b560800000000000000
+      internalID: 7330089661105181032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 433
+        width: 101
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8169be0c013da13e0800000000000000
+      internalID: -2082119808795830760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 419
+        width: 305
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2f69404aaf9630800000000000000
+      internalID: 3936051792431754962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idk_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 125
+        width: 301
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608fa87a5f6fa9a00800000000000000
+      internalID: 764194621731043334
       vertices: []
       indices: 
       edges: []
@@ -173,8 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      door_0: -7341407202210888751
-      door_1: 6623719234781301212
+      idk_0: 2684803284617410338
+      idk_1: 5746398976047030293
+      idk_2: 7330089661105181032
+      idk_3: -2082119808795830760
+      idk_4: 3936051792431754962
+      idk_5: 764194621731043334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
