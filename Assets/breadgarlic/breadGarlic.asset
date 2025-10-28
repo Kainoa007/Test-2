@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fabab3807a08e4ea245f5161341d0b, type: 3}
   m_Name: breadGarlic
   m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue
-  npcName: martin
+  npcName: storagebox
   npcPortrait: {fileID: 0}
   dialogueLines:
   - In the beginning, there was only hunger.
