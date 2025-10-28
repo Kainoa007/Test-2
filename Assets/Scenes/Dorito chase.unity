@@ -351,6 +351,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2650431526837148108, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
   m_PrefabInstance: {fileID: 1296957747}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &951135866 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 4945591121996817694, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+  m_PrefabInstance: {fileID: 1296957747}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1092362111
 GameObject:
   m_ObjectHideFlags: 0
@@ -557,9 +562,9 @@ BoxCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
+    border: {x: 0, y: 0, z: 0, w: 0.089999996}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.01, y: 3.03}
+    oldSize: {x: 2.99, y: 3.02}
     newSize: {x: 3.01, y: 3.03}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -684,6 +689,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4861722407885750849, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 951135866}
+    - target: {fileID: 4945591121996817694, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4bf57c875a7b09248ab441c22118de8f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
