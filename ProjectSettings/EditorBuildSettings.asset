@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/church shit.unity
     guid: 5b5d7231b4066034a99ce2315134ad1f
+  - enabled: 1
+    path: Assets/Scenes/Dorito screen.unity
+    guid: 6c6a97e32448948498db7f469cd61183
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
