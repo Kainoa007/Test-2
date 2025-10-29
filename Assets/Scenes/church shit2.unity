@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCInteraction
   dialogue: {fileID: 11400000, guid: d22a5b640d335be4ba0515df95d6d4e0, type: 2}
-  interactPrompt: {fileID: 1877396061}
+  interactPrompt: {fileID: 1653303510}
 --- !u!61 &7610082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7955,6 +7955,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1653303510 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6365998888531032705, guid: f7919017ebea29248a586a751d7406af, type: 3}
+  m_PrefabInstance: {fileID: 390969857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1686475821
 GameObject:
   m_ObjectHideFlags: 0
@@ -9088,11 +9093,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1877396061 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4015829254599811028, guid: f7919017ebea29248a586a751d7406af, type: 3}
-  m_PrefabInstance: {fileID: 390969857}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1892483045
 GameObject:
   m_ObjectHideFlags: 0
