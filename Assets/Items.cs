@@ -6,5 +6,7 @@ public class Items : ScriptableObject
     public int id;
     public string name;
     public string description;
+    public int speed;
+    public int jump;
     public Sprite image;
 }
