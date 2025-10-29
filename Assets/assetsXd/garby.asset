@@ -17,6 +17,7 @@ MonoBehaviour:
   dialogueLines:
   - DO NOT FEAR THE ALMIGTHY BREAD
   - This is garlic bread in it's more pure and heavenly form
+  - u shall now ascend to breadhood
   - garlic
   autoProgressingLines: 
   autoProgressDelay: 1.5
