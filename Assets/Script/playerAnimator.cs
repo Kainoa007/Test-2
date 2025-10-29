@@ -16,7 +16,10 @@ public class Player_Animator : MonoBehaviour
         anim = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
         player = GetComponent<Player_Controler>();
+
+       
     }
+
 
     void Update()
     {

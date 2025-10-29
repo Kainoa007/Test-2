@@ -3323,6 +3323,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &688036323 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4544237632195087953, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+  m_PrefabInstance: {fileID: 1183524875}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &692321451
 GameObject:
   m_ObjectHideFlags: 0
@@ -5511,7 +5516,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2650431526837148108, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1063995310}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4544237632195087953, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2100253334}
   m_SourcePrefab: {fileID: 100100000, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
 --- !u!1 &1227775514
 GameObject:
@@ -9826,6 +9834,18 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 4945591121996817694, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
   m_PrefabInstance: {fileID: 1183524875}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2100253334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 688036323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d59b9a2326348548a13ab79e40faf50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerFlip
 --- !u!1 &2119613890
 GameObject:
   m_ObjectHideFlags: 0

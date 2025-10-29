@@ -23492,8 +23492,28 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4544237632195087953, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5536950491986161000}
   m_SourcePrefab: {fileID: 100100000, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+--- !u!1 &5536950491986160999 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4544237632195087953, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+  m_PrefabInstance: {fileID: 5536950491986160998}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5536950491986161000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5536950491986160999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d59b9a2326348548a13ab79e40faf50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerFlip
 --- !u!1001 &8174965440258263173
 PrefabInstance:
   m_ObjectHideFlags: 0
