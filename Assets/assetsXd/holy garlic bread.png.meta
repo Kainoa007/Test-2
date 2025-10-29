@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -137,10 +137,10 @@ TextureImporter:
       name: holy garlic bread_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 79
-        width: 161
-        height: 177
+        x: 30
+        y: 75
+        width: 214
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,13 +159,13 @@ TextureImporter:
       name: holy garlic bread_1
       rect:
         serializedVersion: 2
-        x: 295
-        y: 15
-        width: 199
-        height: 241
+        x: 279
+        y: 75
+        width: 219
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 65, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -182,9 +182,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 524
-        y: 80
+        y: 74
         width: 233
-        height: 176
+        height: 182
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: holy garlic bread_3
       rect:
         serializedVersion: 2
-        x: 773
-        y: 79
-        width: 248
-        height: 177
+        x: 775
+        y: 74
+        width: 246
+        height: 182
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,9 +226,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1046
-        y: 80
+        y: 76
         width: 218
-        height: 176
+        height: 180
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: holy garlic bread_5
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 79
-        width: 183
-        height: 177
+        x: 1291
+        y: 75
+        width: 237
+        height: 181
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: holy garlic bread_6
       rect:
         serializedVersion: 2
-        x: 1591
-        y: 79
-        width: 194
-        height: 177
+        x: 1546
+        y: 72
+        width: 240
+        height: 184
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: holy garlic bread_7
       rect:
         serializedVersion: 2
-        x: 1845
-        y: 80
-        width: 166
-        height: 176
+        x: 1813
+        y: 73
+        width: 226
+        height: 183
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
