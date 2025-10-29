@@ -263,7 +263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCInteraction
   dialogue: {fileID: 11400000, guid: d22a5b640d335be4ba0515df95d6d4e0, type: 2}
-  interactPrompt: {fileID: 1877396061}
+  interactPrompt: {fileID: 1773626671}
 --- !u!61 &7610082
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1507,7 +1507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7a8d4f5dc8c44345bdca63c746b0e63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Load_Specific_Scene
-  sceneName: urmom
+  sceneName: ur mom
 --- !u!1 &272739753
 GameObject:
   m_ObjectHideFlags: 0
@@ -6661,7 +6661,7 @@ Transform:
   m_GameObject: {fileID: 1507947166}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 31.029, y: 12.0977, z: 0}
+  m_LocalPosition: {x: 31.09, y: 12.0977, z: 0}
   m_LocalScale: {x: 3.518085, y: 3.1626391, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8720,6 +8720,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1773626671 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6365998888531032705, guid: f7919017ebea29248a586a751d7406af, type: 3}
+  m_PrefabInstance: {fileID: 390969857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1778775554
 GameObject:
   m_ObjectHideFlags: 0
@@ -9080,11 +9085,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1877396061 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4015829254599811028, guid: f7919017ebea29248a586a751d7406af, type: 3}
-  m_PrefabInstance: {fileID: 390969857}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1892483045
 GameObject:
   m_ObjectHideFlags: 0

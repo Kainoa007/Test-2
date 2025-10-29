@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/church shit2.unity
     guid: 2b4c55d7bd7ab2f4bbff1a89de90be8d
   - enabled: 1
+    path: Assets/Scenes/ur mom.unity
+    guid: 48591d3f39c87a24c8176916fc4137d9
+  - enabled: 1
     path: Assets/Scenes/urmom.unity
     guid: 662af256a682fbe4cbe51e64ee6c72ea
   - enabled: 1

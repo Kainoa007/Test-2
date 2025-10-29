@@ -12,12 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05fabab3807a08e4ea245f5161341d0b, type: 3}
   m_Name: garby
   m_EditorClassIdentifier: Assembly-CSharp::NpcDialogue
-  npcName: holy garlic bread
+  npcName: HolyGarlicBread
   npcPortrait: {fileID: -3860575586214062083, guid: c675638dc3942934981c978e1c52f375, type: 3}
   dialogueLines:
   - DO NOT FEAR THE ALMIGTHY BREAD
   - This is garlic bread in it's more pure and heavenly form
   - garlic
+  - u have reached the end of your journey fella
+  - now go w the emisary above me and acend to garlicbreadhood
   autoProgressingLines: 
   autoProgressDelay: 1.5
   typingSpeed: 0.05
