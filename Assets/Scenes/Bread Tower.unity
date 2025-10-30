@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e99adee93b8cd8e4bbda1426a7964f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
-  enemySpeed: 1
+  enemySpeed: 2
   sceneName: Dorito screen 2
 --- !u!1 &216905521 stripped
 GameObject:
@@ -1299,7 +1299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e99adee93b8cd8e4bbda1426a7964f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
-  enemySpeed: 1
+  enemySpeed: 2
   sceneName: Dorito screen 2
 --- !u!1 &790582210
 GameObject:
@@ -1747,7 +1747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eddfa739fecc3a744908aa657d2e70e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  cameraSpeed: 1
+  cameraSpeed: 2
 --- !u!1001 &1053173376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2253,7 +2253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e99adee93b8cd8e4bbda1426a7964f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
-  enemySpeed: 1
+  enemySpeed: 2
   sceneName: Dorito screen 2
 --- !u!1001 &1297025315
 PrefabInstance:
@@ -2413,7 +2413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e99adee93b8cd8e4bbda1426a7964f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
-  enemySpeed: 1
+  enemySpeed: 2
   sceneName: Dorito screen 2
 --- !u!1001 &1349103418
 PrefabInstance:
@@ -2915,7 +2915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e99adee93b8cd8e4bbda1426a7964f70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
-  enemySpeed: 1
+  enemySpeed: 2
   sceneName: Dorito screen 2
 --- !u!1001 &1925983543
 PrefabInstance:
