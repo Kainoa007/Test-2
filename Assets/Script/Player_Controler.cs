@@ -1,7 +1,9 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player_Controler : MonoBehaviour
 {
+
     [SerializeField] private Animator animator; 
     public float moveSpeed = 5f;
     public float jumpForce = 5f;
@@ -56,5 +58,12 @@ public class Player_Controler : MonoBehaviour
     void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(movement.x * moveSpeed, rb.linearVelocity.y);
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("JumpForce"))
+        {
+            jumpForce = 20f;
+        }
     }
 }

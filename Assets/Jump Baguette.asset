@@ -15,4 +15,6 @@ MonoBehaviour:
   id: 2
   name: Jump Baguette
   description: Makes u jump higher ???? no shit man
+  speed: 0
+  jump: 7
   image: {fileID: -6789640289551466646, guid: d71c213cd45d36043a11262fe1a68d05, type: 3}
