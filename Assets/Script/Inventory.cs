@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class Inventory : MonoBehaviour
 {
     public static Inventory instance;
+    public Player_Controler player_controler;
 
     public List<Items> content = new List<Items>();
     public int contentCurrentIndex = 0;
@@ -36,6 +37,7 @@ public class Inventory : MonoBehaviour
         }
 
         Items currentItem = content[contentCurrentIndex];
+        
         content.Remove(currentItem);
         GetNextItem();
         UpdateInventoryUI();
