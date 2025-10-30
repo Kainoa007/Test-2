@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
   enemySpeed: 1
-  sceneName: Dorito screen
+  sceneName: Dorito screen 2
 --- !u!1 &216905521 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6764326966206220332, guid: 82144d1593f4d474abf59e7b6929b081, type: 3}
@@ -255,7 +255,7 @@ Transform:
   m_GameObject: {fileID: 255865489}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.44, y: 31.75, z: 0}
+  m_LocalPosition: {x: -5.36, y: 32.09, z: 0}
   m_LocalScale: {x: 5, y: 6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1300,7 +1300,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
   enemySpeed: 1
-  sceneName: Dorito screen
+  sceneName: Dorito screen 2
 --- !u!1 &790582210
 GameObject:
   m_ObjectHideFlags: 0
@@ -2254,7 +2254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
   enemySpeed: 1
-  sceneName: Dorito screen
+  sceneName: Dorito screen 2
 --- !u!1001 &1297025315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2414,7 +2414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
   enemySpeed: 1
-  sceneName: Dorito screen
+  sceneName: Dorito screen 2
 --- !u!1001 &1349103418
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2916,7 +2916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyPatrol1
   enemySpeed: 1
-  sceneName: Dorito screen
+  sceneName: Dorito screen 2
 --- !u!1001 &1925983543
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bread Tower.unity
     guid: 5616a6721dc4f8542955ff421e1d63f5
+  - enabled: 1
+    path: Assets/Scenes/Dorito screen 2.unity
+    guid: b3b60ea208cb18540842f45f0be0aa02
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
