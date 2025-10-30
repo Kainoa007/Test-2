@@ -2435,6 +2435,10 @@ PrefabInstance:
       propertyPath: jumpForce
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 7400472550078777810, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5879514480746932602, guid: ecc7f0afc8a0a3d41bd63bcfda71b2b3, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
