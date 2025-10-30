@@ -909,7 +909,7 @@ GameObject:
   - component: {fileID: 1170029278}
   m_Layer: 7
   m_Name: baguette_0
-  m_TagString: Untagged
+  m_TagString: JumpZone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1184,6 +1184,10 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 963306766}
+    - target: {fileID: 4861722407885750849, guid: ead80df2b27cba94b8a70e5811a21819, type: 3}
+      propertyPath: jumpForce
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
