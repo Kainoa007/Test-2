@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class TriggerGoUp : MonoBehaviour
 {
-    public float upwardSpeed = 5f; // How fast the player goes up
+    public float upwardSpeed = 5f;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
