@@ -35,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dorito screen 2.unity
     guid: b3b60ea208cb18540842f45f0be0aa02
+  - enabled: 1
+    path: Assets/Scenes/ur mom.unity
+    guid: 439505b96a2cad942a2ba67f83fd57e4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
